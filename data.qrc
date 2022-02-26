@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ClientsForm.qml</file>
+        <file>ErrorForm.qml</file>
+        <file>error.png</file>
+        <file>MainForm.qml</file>
+        <file>AddClientForm.qml</file>
+        <file>CWindow.qml</file>
+    </qresource>
+</RCC>
